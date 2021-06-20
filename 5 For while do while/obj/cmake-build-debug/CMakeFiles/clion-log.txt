@@ -1,0 +1,68 @@
+"C:\Users\Kacper\AppData\Local\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Kacper\Documents\C++\Piąty For while do while\obj"
+CMake Error: Could not find cmake module file: CMakeDetermineForCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_For_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_For_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/Kacper/Documents/C++/PiÄ…ty For while do while/obj/cmake-build-debug/CMakeFiles/3.17.3/CMakeForCompiler.cmake
+CMake Error: Could not find cmake module file: CMakeDeterminewhileCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_while_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_while_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/Kacper/Documents/C++/PiÄ…ty For while do while/obj/cmake-build-debug/CMakeFiles/3.17.3/CMakewhileCompiler.cmake
+CMake Error: Could not find cmake module file: CMakeDeterminedoCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_do_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_do_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/Kacper/Documents/C++/PiÄ…ty For while do while/obj/cmake-build-debug/CMakeFiles/3.17.3/CMakedoCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_For_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_For_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeForInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_while_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_while_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakewhileInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_do_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_do_COMPILER to the full path to the compiler, or to the compiler name
+  if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakedoInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_while_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_while_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakewhileInformation.cmake
+CMake Error: CMAKE_For_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_while_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_do_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_while_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Kacper/Documents/C++/PiÄ…ty For while do while/obj/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Kacper/Documents/C++/PiÄ…ty For while do while/obj/cmake-build-debug/CMakeFiles/CMakeError.log".

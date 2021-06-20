@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601642126 source:c:\users\kacper\documents\c++\15 odczyt\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
