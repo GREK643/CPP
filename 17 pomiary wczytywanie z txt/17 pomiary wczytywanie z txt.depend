@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601928106 source:c:\users\kacper\documents\c++\17 pomiary wczytywanie z txt\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
