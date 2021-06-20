@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601497213 source:c:\users\kacper\documents\c++\12 switch case\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
